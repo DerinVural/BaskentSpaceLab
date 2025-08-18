@@ -1,15 +1,5 @@
 # cFS (Core Flight System)
+Core Flight System (cFS), farklı uçuş bilgisayarları, platform donanımları ve uydu görevlerinin aynı yazılım kütüphaneleri ile geliştirilebilmesine imkân sağlayan, modüler ve yeniden kullanılabilir bir yazılım geliştirme ekosistemidir. Bu yapı; dokümantasyon, iş akışları, hata ayıklama ve geliştirme süreçlerini hızlandırarak verimliliği artırır.
+cFS, görev ve uydu operasyonlarına ait arayüzlerin ve tecrübelerin korunmasını sağlayarak, donanım mimarisinin yeni teknolojilere adapte edilmesini kolaylaştırır. İşletim sistemi ve donanım bağımsızlığı sayesinde, yazılım geliştirme ve benzetim (simülasyon) imkânlarını önemli ölçüde genişletir. Bu özellikleriyle, eğitim amaçlı kurulacak laboratuvarlarda konsept uydu görevleri ve donanımsal fizibilite çalışmaları, gerçekçi simülasyonlarla test edilebilir hâle gelir.
+cFS ile geliştirilen uçuş yazılımları, simülasyon ortamında ve gerçek donanım üzerinde platformdan bağımsız olarak aynı şekilde çalışabilmektedir. NASA tarafından 2010 öncesinde onlarca görevde başarıyla kullanılan bu sistem, 2010 itibarıyla açık kaynak olarak yayımlanmıştır.
 
-## İçerik
-- `apps/` — Özel uygulamalar
-- `config/` — Mission/ platform config
-- `tables/` — Tablo dosyaları
-- `cmake/` — Build sistem
-
-## Derleme (örnek)
-```bash
-# Bağımlılıklar ve toolchain projeye göre değişebilir
-mkdir build && cd build
-cmake ..
-make -j
-```
