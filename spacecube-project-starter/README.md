@@ -3,7 +3,7 @@
 Bu repo BaşkentSpaceLab'de fpga tabanlı bir sistem için kod, dokümantasyon ve proje yönetimini tek çatı altında toplamak amacıyla oluşturulmuş bir başlangıç şablonudur.
 
 ## Kapsam
-- `fpga/` — PolarFire SoC FPGA Video Kit tabanlı FPGA tasarımları (RTL, kısıtlar, IP konfigleri)
+- `fpga/` —  MPFS250 PolarFire SoC FPGA tabanlı FPGA tasarımları (RTL, kısıtlar, IP konfigleri)
 - `software/cfs/` — cFS uygulamaları, mission config ve table’lar
 - `ground/cosmos/` — COSMOS komut/telemetri konfigleri ve scriptleri
 - `sim/nos3/` — NOS3 senaryoları ve simülasyon altyapısı
