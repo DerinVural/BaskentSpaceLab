@@ -1,7 +1,7 @@
 # Mimari Genel Bakış
 
 ## Donanım
-- **FPGA**: PolarFire FPGA
+- **FPGA**: PolarFire FPGA (MPFS250T PolarFire® SoC FPGA)
 - **CPU**: hard RISC-V CPU alt sistemi
 - **Veri Hatları**: PCIe Gen2 x4, HDMI 2.0 Tx/Rx, MIPI CSI-2 Rx (dual 4K) ve MIPI DSI Tx , 2× GbE (SGMII), USB 2.0 (ULPI PHY), 4× UART, 2× CAN, mikroBUS, Wi-Fi b/g/n + Bluetooth 5.0, 
 - **Bellek**: DDR4 (rad-hard),LDDR4, eMMC 8 GB + MicroSD, SPI Flash 1 Gb 
