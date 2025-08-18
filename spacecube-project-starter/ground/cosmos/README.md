@@ -8,4 +8,5 @@ COSMOS’un esnek ve modüler yapısı, hem uydu entegrasyon süreçlerinde hem 
 - `config/` — Arayüz ve hedef konfigleri
 
 Çalıştırma adımları, gerçek kurulumunuza göre güncellenecektir.
+
 Bkz : http://stf1.com/NOS3Website/Nos3CosmosInOutTab.html
