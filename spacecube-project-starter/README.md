@@ -1,9 +1,9 @@
 # SpaceCube Project
 
-Bu repo; **SpaceCube Mini v3.0** tabanlı bir sistem için kod, dokümantasyon ve proje yönetimini tek çatı altında toplamak amacıyla oluşturulmuş bir başlangıç şablonudur.
+Bu repo BaşkentSpaceLab'de fpga tabanlı bir sistem için kod, dokümantasyon ve proje yönetimini tek çatı altında toplamak amacıyla oluşturulmuş bir başlangıç şablonudur.
 
 ## Kapsam
-- `fpga/` — XQRKU060 (Kintex UltraScale RT) tabanlı FPGA tasarımları (RTL, kısıtlar, IP konfigleri)
+- `fpga/` — PolarFire SoC FPGA Video Kit tabanlı FPGA tasarımları (RTL, kısıtlar, IP konfigleri)
 - `software/cfs/` — cFS uygulamaları, mission config ve table’lar
 - `ground/cosmos/` — COSMOS komut/telemetri konfigleri ve scriptleri
 - `sim/nos3/` — NOS3 senaryoları ve simülasyon altyapısı
