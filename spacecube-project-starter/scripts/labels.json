@@ -1,0 +1,52 @@
+[
+  {
+    "name": "bug",
+    "color": "d73a4a",
+    "description": "Hata raporu"
+  },
+  {
+    "name": "enhancement",
+    "color": "a2eeef",
+    "description": "Yeni özellik"
+  },
+  {
+    "name": "documentation",
+    "color": "0075ca",
+    "description": "Dokümantasyon"
+  },
+  {
+    "name": "question",
+    "color": "d876e3",
+    "description": "Soru / destek"
+  },
+  {
+    "name": "needs-triage",
+    "color": "fbca04",
+    "description": "Sınıflandırma gerekli"
+  },
+  {
+    "name": "good first issue",
+    "color": "7057ff",
+    "description": "Yeni başlayanlar için uygun"
+  },
+  {
+    "name": "fpga",
+    "color": "0e8a16",
+    "description": "FPGA ile ilgili"
+  },
+  {
+    "name": "cfs",
+    "color": "1d76db",
+    "description": "cFS ile ilgili"
+  },
+  {
+    "name": "cosmos",
+    "color": "5319e7",
+    "description": "COSMOS ile ilgili"
+  },
+  {
+    "name": "nos3",
+    "color": "c5def5",
+    "description": "NOS3 ile ilgili"
+  }
+]

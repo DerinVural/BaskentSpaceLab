@@ -1,0 +1,32 @@
+# Genel
+.DS_Store
+*.log
+*.tmp
+*.swp
+__pycache__/
+.env
+venv/
+build/
+dist/
+
+# Vivado / FPGA
+*.jou
+*.str
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.xpr
+*.xsa
+*.dcp
+*.rpt
+
+# COSMOS / NOS3
+*.db
+tmp/
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.user

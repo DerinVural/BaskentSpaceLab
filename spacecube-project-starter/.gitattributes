@@ -1,0 +1,19 @@
+# Git LFS ile izlenen dosyalar
+*.bit filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.mcs filter=lfs diff=lfs merge=lfs -text
+*.dcp filter=lfs diff=lfs merge=lfs -text
+*.xsa filter=lfs diff=lfs merge=lfs -text
+*.xpr filter=lfs diff=lfs merge=lfs -text
+*.xdc filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.stl filter=lfs diff=lfs merge=lfs -text
+*.step filter=lfs diff=lfs merge=lfs -text
+*.brd filter=lfs diff=lfs merge=lfs -text
+*.sch filter=lfs diff=lfs merge=lfs -text
+*.kicad_pcb filter=lfs diff=lfs merge=lfs -text
+*.kicad_sch filter=lfs diff=lfs merge=lfs -text
+
+# Metin dosyalarında satır sonu normalizasyonu
+* text=auto eol=lf

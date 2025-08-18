@@ -1,0 +1,9 @@
+# Varsayılan sahipler
+*       @spacecube/core
+
+# Klasöre göre
+/fpga/  @spacecube/fpga
+/software/ @spacecube/flight
+/ground/ @spacecube/ground
+/sim/ @spacecube/sim
+/docs/ @spacecube/docs
