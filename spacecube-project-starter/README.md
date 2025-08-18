@@ -10,6 +10,7 @@ Bu repo BaşkentSpaceLab'de fpga tabanlı bir sistem için kod, dokümantasyon v
 - `docs/` — Mimari, arayüzler, AIT/OPS prosedürleri
 - `hardware/` — Şematikler, PCB dosyaları (LFS ile)
 - `scripts/` — Geliştirici araçları ve otomasyon scriptleri
+- `dökümanlar/` — Hazırlanan dökümanlar
 
 ## Başlangıç
 ```bash
