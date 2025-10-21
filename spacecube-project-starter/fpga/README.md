@@ -11,3 +11,6 @@ Bu proje, üniversite-sanayi iş birliğiyle öğrencilerin ileri teknoloji alan
 
 ## Bitstream Yayınlama
 - `releases/` altında sürümlenen bitstream'ler (Git LFS)
+
+## TCL dosyası çalıştırma
+Dökümanda anlatılan AD9238 ve AN9767 uygulamaların projelerini ad9767.tcl ve ad9238.tcl uzantılı dosyaları çalıştırıp otomatik olarak projeleri oluşturabilirsiniz.
